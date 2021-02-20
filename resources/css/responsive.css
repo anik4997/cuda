@@ -135,7 +135,6 @@
 @media screen and (min-width: 768px) {
    header{
     height:400px;
-    width: 100vw;
   }
   .text_box > h1 {
     margin:0 3rem;
