@@ -20,6 +20,7 @@
 @media screen and (max-width: 600px) {
   header{
     height:450px;
+    width: 100vw;
   }
   .heading_section2 p{
     margin:0 5rem;
@@ -33,12 +34,14 @@
 }
   .section2{
     height:1200px;
+    width: 100vw;
   }
   .services_section2 > p{
     margin:0 5rem;
   }
   .section3{
     height:1300px;
+    width: 100vw;
   }
   .members p{
     margin:0 5rem;
@@ -52,9 +55,11 @@
 }
   .section4{
     height:800px;
+    width: 100vw;
   }
   .section5{
     height:1280px;
+    width: 100vw;
   }
   .service1_section5 > img {
     height:14rem;
@@ -62,6 +67,7 @@
 }
   .section6{
     height:1200px;
+    width: 100vw;
   }
   textarea{
     height: 15rem;
@@ -69,6 +75,7 @@
   }
   .section7{
     height:700px;
+    width: 100vw;
   }
   footer{
     height: 220px;
@@ -78,6 +85,7 @@
 @media screen and (min-width: 600px) {
    header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0 3rem;
@@ -88,12 +96,14 @@
 }
   .section2{
     height:1100px;
+    width: 100vw;
   }
   .services_section2 > p{
     margin:0 5rem;
   }
   .section3{
     height:1200px;
+    width: 100vw;
   }
   .members p{
     margin:0 5rem;
@@ -103,9 +113,11 @@
   }
   .section4{
     height:800px;
+    width: 100vw;
   }
   .section5{
     height:1600px;
+    width: 100vw;
   }
   .service1_section5 > img {
     height:22rem;
@@ -113,26 +125,31 @@
 }
   .section6{
     height:1200px;
+    width: 100vw;
   }
   .section7{
     height:550px;
+    width: 100vw;
   }
 } 
 @media screen and (min-width: 768px) {
    header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0 3rem;
   }
   .section2{
     height:730px;
+    width: 100vw;
   }
   .services_section2 > p{
     margin:0 5rem;
   }
   .section3{
     height:730px;
+    width: 100vw;
   }
   .members p{
     margin:0 5rem;
@@ -142,9 +159,11 @@
   }
   .section4{
     height:500px;
+    width: 100vw;
   }
   .section5{
     height:800px;
+    width: 100vw;
   }
   .service1_section5 > img {
     height:16rem;
@@ -152,26 +171,31 @@
 }
   .section6{
     height:800px;
+    width: 100vw;
   }
   .section7{
     height:550px;
+    width: 100vw;
   }
 } 
 @media screen and (min-width: 992px) {
   header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0;
   }
   .section2{
     height:500px;
+    width: 100vw;
   }
   .services_section2 > p{
     margin:0;
   }
   .section3{
     height:550px;
+    width: 100vw;
   }
   .members p{
     margin:0;
@@ -181,9 +205,11 @@
   }
   .section4{
     height:330px;
+    width: 100vw;
   }
   .section5{
     height:800px;
+    width: 100vw;
   }
   .service1_section5 > img {
     height:18rem;
@@ -191,26 +217,31 @@
 }
   .section6{
     height:600px;
+    width: 100vw;
   }
   .section7{
     height:550px;
+    width: 100vw;
   }
 }
 @media screen and (min-width: 1200px) {
   header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0;
   }
   .section2{
     height:500px;
+    width: 100vw;
   }
   .services_section2 > p{
     margin:0;
   }
   .section3{
     height:530px;
+    width: 100vw;
   }
   .members p{
     margin:0;
@@ -220,9 +251,11 @@
   }
   .section4{
     height:330px;
+    width: 100vw;
   }
   .section5{
     height:900px;
+    width: 100vw;
   }
   .service1_section5 > img {
     height:20rem;
@@ -230,8 +263,10 @@
 }
   .section6{
     height:450px;
+    width: 100vw;
   }
   .section7{
     height:550px;
+    width: 100vw;
   }
 }
