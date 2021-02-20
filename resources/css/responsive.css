@@ -135,6 +135,7 @@
 @media screen and (min-width: 768px) {
    header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0 3rem;
@@ -180,6 +181,7 @@
 @media screen and (min-width: 992px) {
   header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0;
@@ -225,6 +227,7 @@
 @media screen and (min-width: 1200px) {
   header{
     height:400px;
+    width: 100vw;
   }
   .text_box > h1 {
     margin:0;
