@@ -10,6 +10,7 @@ body{
 }
 header{
     height:380px;  
+    width: 100vw;
     background: linear-gradient(rgba(135, 80, 156, .8) ,rgba(135, 80, 156, .9)), url('https://images.pexels.com/photos/4173624/pexels-photo-4173624.jpeg?cs=srgb&dl=pexels-elijah-o%27donnell-4173624.jpg&fm=jpg') no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -124,7 +125,7 @@ button{
 /*service section 2 start*/
 .section2{
     height:500px;  
-    width:100%;
+    width:100vw;
     background:#17c2a4;
 }
 .heading_section2{
@@ -169,7 +170,7 @@ button{
 /*service section 3 start*/
 .section3{
     background: #e7f1f8;
-    width:100%;
+    width:100vw;
     height:550px;  
 }
 .heading_section3{
@@ -242,7 +243,7 @@ i{
 /*service section 4 start*/
 .section4{
     height:400px;  
-    width:100%;
+    width:100vw;
     background: #ffffff;
 }
 .heading_section4{
@@ -273,7 +274,7 @@ i{
 /*service section 5 start*/
 .section5{
     background: #ffdd99;
-    width: 100%;
+    width: 100vw;
     height:850px;  
     text-align: center;
 }
@@ -330,7 +331,7 @@ i{
 /*service section 6 start*/
 .section6{
     background: #d74680;
-    width: 100%;
+    width: 100vw;
     height:500px;  
 }
 .heading_section6{
@@ -380,7 +381,7 @@ i{
 /*service section 7 start*/
 .section7{
     height:500px;  
-    width:100%;
+    width:100vw;
     background: #3c5499;
     text-align: center;
 }
@@ -439,6 +440,7 @@ textarea::placeholder {
 footer{
     background: #344b8e;
     height: 80px;
+    width: 100vw;
 }
 footer > ul {
     text-align: center;
