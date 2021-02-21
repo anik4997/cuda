@@ -439,7 +439,7 @@ textarea::placeholder {
 /*footer start*/
 footer{
     background: #344b8e;
-    height: 80px;
+/*     height: 80px; */
     width: 100vw;
 }
 footer > ul {
