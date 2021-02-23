@@ -78,8 +78,11 @@ html{
     top:0;
     left:0;
     overflow-x: hidden;
-    -webkit-transition: 0.8;
-    -o-transition: 0.8;
+    transition: 2s;
+    -o-transition: 2s;
+    -webkit-transition: 2s;
+    -moz-transition: 2s;
+    -ms-transition: 2s;
 }
 .overlay_content a{
     color: #dfe8ed;
@@ -173,6 +176,7 @@ button{
     font-size: 1.1rem;
 }
 .services_section2{
+    margin: 2rem;
     text-align: center;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
